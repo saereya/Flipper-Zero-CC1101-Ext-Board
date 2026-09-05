@@ -1,0 +1,177 @@
+** Drc report for CC1101ExtBoardV2.kicad_pcb **
+** Created on 2026-09-05T21:58:40 **
+** Report includes: Errors, Warnings, Exclusions **
+
+** Found 40 DRC violations **
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.1500 mm; actual 0.1100 mm)
+    Rule: board setup constraints silk; warning
+    @(28.5400 mm, 42.0000 mm): Segment on Edge.Cuts
+    @(28.7100 mm, 68.7100 mm): Segment of J1 on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.1500 mm; actual 0.1100 mm)
+    Rule: board setup constraints silk; warning
+    @(28.5400 mm, 42.0000 mm): Segment on Edge.Cuts
+    @(29.9800 mm, 68.7100 mm): Segment of J1 on B.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.1338 mm)
+    Rule: board setup constraints silk; warning
+    @(37.2800 mm, 64.5000 mm): Segment of D3 on F.Silkscreen
+    @(33.0614 mm, 67.8900 mm): Footprint text of J1 (PA7)
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(37.3300 mm, 65.8000 mm): Polygon of D3 on F.Silkscreen
+    @(33.0614 mm, 67.8900 mm): Footprint text of J1 (PA7)
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.1402 mm)
+    Rule: board setup constraints silk; warning
+    @(40.5000 mm, 65.5000 mm): Segment of D3 on F.Silkscreen
+    @(35.6129 mm, 67.8900 mm): Footprint text of J1 (PA6)
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(38.1643 mm, 67.8900 mm): Footprint text of J1 (PA4)
+    @(37.3300 mm, 65.8000 mm): Polygon of D3 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(38.1643 mm, 67.8900 mm): Footprint text of J1 (PA4)
+    @(37.2800 mm, 64.5000 mm): Segment of D3 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(40.5000 mm, 65.5000 mm): Segment of D3 on F.Silkscreen
+    @(40.7157 mm, 67.8900 mm): Footprint text of J1 (PB3)
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.1180 mm)
+    Rule: board setup constraints silk; warning
+    @(37.3300 mm, 65.8000 mm): Polygon of D3 on F.Silkscreen
+    @(43.2671 mm, 67.8900 mm): Footprint text of J1 (PB2)
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.1383 mm)
+    Rule: board setup constraints silk; warning
+    @(43.2671 mm, 67.8900 mm): Footprint text of J1 (PB2)
+    @(37.2800 mm, 64.5000 mm): Segment of D3 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(40.5000 mm, 65.5000 mm): Segment of D3 on F.Silkscreen
+    @(45.8186 mm, 67.8900 mm): Footprint text of J1 (PC3)
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.1039 mm)
+    Rule: board setup constraints silk; warning
+    @(88.4200 mm, 61.7400 mm): Segment of J3 on F.Silkscreen
+    @(67.0000 mm, 62.4000 mm): PCB text '+5V' on F.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.0710 mm)
+    Rule: board setup constraints silk; warning
+    @(68.7014 mm, 67.8900 mm): Footprint text of J1 (SWC)
+    @(68.2700 mm, 66.3000 mm): Segment of J4 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.0842 mm)
+    Rule: board setup constraints silk; warning
+    @(65.6200 mm, 66.3000 mm): Segment of J4 on F.Silkscreen
+    @(66.1500 mm, 67.8900 mm): Footprint text of J1 (3V3)
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(66.1500 mm, 67.8900 mm): Footprint text of J1 (3V3)
+    @(67.0000 mm, 66.3000 mm): Segment of J4 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.0230 mm)
+    Rule: board setup constraints silk; warning
+    @(68.7014 mm, 67.8900 mm): Footprint text of J1 (SWC)
+    @(68.2700 mm, 66.3000 mm): Segment of J4 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.1182 mm)
+    Rule: board setup constraints silk; warning
+    @(71.2529 mm, 67.8900 mm): Footprint text of J1 (GND)
+    @(68.2700 mm, 66.3000 mm): Segment of J4 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(76.3557 mm, 67.8900 mm): Footprint text of J1 (TX)
+    @(68.2700 mm, 66.3000 mm): Segment of J4 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(73.8043 mm, 67.8900 mm): Footprint text of J1 (SIO)
+    @(68.2700 mm, 66.3000 mm): Segment of J4 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(78.9071 mm, 67.8900 mm): Footprint text of J1 (RX)
+    @(68.2700 mm, 66.3000 mm): Segment of J4 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.0706 mm)
+    Rule: board setup constraints silk; warning
+    @(81.4586 mm, 67.8900 mm): Footprint text of J1 (PC1)
+    @(68.2700 mm, 66.3000 mm): Segment of J4 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.0706 mm)
+    Rule: board setup constraints silk; warning
+    @(84.0100 mm, 67.8900 mm): Footprint text of J1 (PC0)
+    @(68.2700 mm, 66.3000 mm): Segment of J4 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.0230 mm)
+    Rule: board setup constraints silk; warning
+    @(86.6000 mm, 67.8900 mm): Footprint text of J1 (1W)
+    @(68.2700 mm, 66.3000 mm): Segment of J4 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.1182 mm)
+    Rule: board setup constraints silk; warning
+    @(89.0700 mm, 67.8900 mm): Footprint text of J1 (GND)
+    @(68.2700 mm, 66.3000 mm): Segment of J4 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.1182 mm)
+    Rule: board setup constraints silk; warning
+    @(89.0700 mm, 67.8900 mm): Footprint text of J1 (GND)
+    @(88.7000 mm, 66.3000 mm): Segment of J4 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(33.0614 mm, 67.8900 mm): Footprint text of J1 (PA7)
+    @(37.9400 mm, 65.9500 mm): Pad 1 [/CSN] of D3 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(35.6129 mm, 67.8900 mm): Footprint text of J1 (PA6)
+    @(39.8400 mm, 65.9500 mm): Pad 3 [/SCK] of D3 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(38.1643 mm, 67.8900 mm): Footprint text of J1 (PA4)
+    @(37.9400 mm, 65.9500 mm): Pad 1 [/CSN] of D3 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(40.7157 mm, 67.8900 mm): Footprint text of J1 (PB3)
+    @(39.8400 mm, 65.9500 mm): Pad 3 [/SCK] of D3 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(43.2671 mm, 67.8900 mm): Footprint text of J1 (PB2)
+    @(37.9400 mm, 65.9500 mm): Pad 1 [/CSN] of D3 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(45.8186 mm, 67.8900 mm): Footprint text of J1 (PC3)
+    @(39.8400 mm, 65.9500 mm): Pad 3 [/SCK] of D3 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(68.7014 mm, 67.8900 mm): Footprint text of J1 (SWC)
+    @(67.0000 mm, 64.9200 mm): PTH pad 1 [+5V] of J4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(71.2529 mm, 67.8900 mm): Footprint text of J1 (GND)
+    @(69.5400 mm, 64.9200 mm): PTH pad 2 [/SWC] of J4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(81.4586 mm, 67.8900 mm): Footprint text of J1 (PC1)
+    @(82.2400 mm, 64.9200 mm): PTH pad 7 [/PC0] of J4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(81.4586 mm, 67.8900 mm): Footprint text of J1 (PC1)
+    @(79.7000 mm, 64.9200 mm): PTH pad 6 [/PC1] of J4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(84.0100 mm, 67.8900 mm): Footprint text of J1 (PC0)
+    @(82.2400 mm, 64.9200 mm): PTH pad 7 [/PC0] of J4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(89.0700 mm, 67.8900 mm): Footprint text of J1 (GND)
+    @(87.3200 mm, 64.9200 mm): PTH pad 9 [GND] of J4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(60.6800 mm, 43.5500 mm): Footprint text of J3 (+3V3)
+    @(63.0200 mm, 44.6000 mm): PTH pad 51 [+3V3_RF] of J3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(62.8700 mm, 46.0400 mm): Footprint text of J3 (1)
+    @(63.0200 mm, 47.1400 mm): PTH pad 1 [unconnected-(J3-Pad1)] of J3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(60.6800 mm, 60.8900 mm): Footprint text of J3 (GND)
+    @(63.0200 mm, 59.8400 mm): PTH pad 52 [GND] of J3
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+
+** End of Report **

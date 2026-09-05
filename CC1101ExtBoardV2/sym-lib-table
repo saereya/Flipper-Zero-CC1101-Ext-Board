@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "CC1101ExtBoardV2") (type "KiCad") (uri "${KIPRJMOD}/library/CC1101ExtBoardV2.kicad_sym") (options "") (descr "Project symbols: Flipper Zero GPIO header, CC1101 module socket, prototyping grid, derived power rails"))
+)

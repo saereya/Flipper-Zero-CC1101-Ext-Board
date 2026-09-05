@@ -1,0 +1,2952 @@
+(export
+	(version "E")
+	(design
+		(source "/home/tom/Projects/Flipper-Zero-CC1101-Ext-Board/CC1101ExtBoardV2/CC1101ExtBoardV2.kicad_sch")
+		(date "2026-09-05T21:58:41")
+		(tool "Eeschema 10.0.6")
+		(sheet
+			(number "1")
+			(name "/")
+			(tstamps "/")
+			(title_block
+				(title "CC1101 Ext Board V2 - Flipper Zero external sub-GHz radio carrier")
+				(company)
+				(rev "2.0")
+				(date "2026-09-05")
+				(source "CC1101ExtBoardV2.kicad_sch")
+				(comment
+					(number "1")
+					(value "")
+				)
+				(comment
+					(number "2")
+					(value "")
+				)
+				(comment
+					(number "3")
+					(value "")
+				)
+				(comment
+					(number "4")
+					(value "")
+				)
+				(comment
+					(number "5")
+					(value "")
+				)
+				(comment
+					(number "6")
+					(value "")
+				)
+				(comment
+					(number "7")
+					(value "")
+				)
+				(comment
+					(number "8")
+					(value "")
+				)
+				(comment
+					(number "9")
+					(value "")
+				)
+			)
+		)
+	)
+	(components
+		(comp
+			(ref "C1")
+			(value "10uF")
+			(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "CC1101ExtBoardV2")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CC1101ExtBoardV2.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "e13a7224-0415-5fb9-b7bf-ea87db4d9333")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C2")
+			(value "100nF")
+			(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "CC1101ExtBoardV2")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CC1101ExtBoardV2.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "ec447ec2-304c-5d64-8b0a-374d66a951c3")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C3")
+			(value "10uF")
+			(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "CC1101ExtBoardV2")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CC1101ExtBoardV2.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "f14b7fb7-78d0-50d1-8643-853791823352")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C4")
+			(value "100nF")
+			(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "CC1101ExtBoardV2")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CC1101ExtBoardV2.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "e0395a13-898f-5d0c-9932-ad6cab5f068d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D1")
+			(value "PMEG2010EH")
+			(footprint "Diode_SMD:D_SOD-123")
+			(fields
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "D_Schottky")
+				(description "Schottky diode")
+			)
+			(property
+				(name "Sheetname")
+				(value "CC1101ExtBoardV2")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CC1101ExtBoardV2.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode Schottky")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "TO-???* *_Diode_* *SingleDiode* D_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "34248ac7-b9c0-5085-a636-d02f08d95f6a")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D2")
+			(value "SRV05-4")
+			(footprint "Package_TO_SOT_SMD:SOT-23-6_Handsoldering")
+			(fields
+				(field
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-23-6_Handsoldering")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Power_Protection")
+				(part "SRV05-4")
+				(description "ESD Protection Diodes with Low Clamping Voltage, SOT-23-6")
+			)
+			(property
+				(name "Sheetname")
+				(value "CC1101ExtBoardV2")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CC1101ExtBoardV2.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "ESD protection diodes")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "SOT?23*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "8b2c43aa-4f7d-5690-ad15-e42c4c55c2b4")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "6")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D3")
+			(value "SRV05-4")
+			(footprint "Package_TO_SOT_SMD:SOT-23-6_Handsoldering")
+			(fields
+				(field
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-23-6_Handsoldering")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Power_Protection")
+				(part "SRV05-4")
+				(description "ESD Protection Diodes with Low Clamping Voltage, SOT-23-6")
+			)
+			(property
+				(name "Sheetname")
+				(value "CC1101ExtBoardV2")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CC1101ExtBoardV2.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "ESD protection diodes")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "SOT?23*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "0c556e07-c9c3-513b-b38c-897148b92139")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "6")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D4")
+			(value "SRV05-4")
+			(footprint "Package_TO_SOT_SMD:SOT-23-6_Handsoldering")
+			(fields
+				(field
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-23-6_Handsoldering")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Power_Protection")
+				(part "SRV05-4")
+				(description "ESD Protection Diodes with Low Clamping Voltage, SOT-23-6")
+			)
+			(property
+				(name "Sheetname")
+				(value "CC1101ExtBoardV2")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CC1101ExtBoardV2.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "ESD protection diodes")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "SOT?23*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "b7a89070-398b-5469-a478-ac00c971b89e")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "6")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D5")
+			(value "LED")
+			(footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "LED")
+				(description "Light emitting diode")
+			)
+			(property
+				(name "Sheetname")
+				(value "CC1101ExtBoardV2")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CC1101ExtBoardV2.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "LED diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED* LED_SMD:* LED_THT:*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "516ae25c-28e1-582f-8661-963b91ce3cc8")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "FB1")
+			(value "600R@100MHz")
+			(footprint "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder")
+			(fields
+				(field
+					(name "Footprint") "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "FerriteBead_Small")
+				(description "Ferrite bead, small symbol")
+			)
+			(property
+				(name "Sheetname")
+				(value "CC1101ExtBoardV2")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CC1101ExtBoardV2.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "L ferrite bead inductor filter")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Inductor_* L_* *Ferrite*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "0676f2a7-b7b3-5680-a193-38e47af9a5b1")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J1")
+			(value "Flipper Zero GPIO")
+			(footprint "CC1101ExtBoardV2:FLIPPER-GPIO-18-RA")
+			(datasheet "https://docs.flipper.net/zero/gpio-and-modules")
+			(fields
+				(field
+					(name "Footprint") "CC1101ExtBoardV2:FLIPPER-GPIO-18-RA")
+				(field
+					(name "Datasheet") "https://docs.flipper.net/zero/gpio-and-modules")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "CC1101ExtBoardV2")
+				(part "FlipperZero_GPIO_18")
+				(description "Flipper Zero 18-pin GPIO header: single row split 8 + 10, 2.54 mm pitch, 17.78 mm gap, 58.42 mm pad 1 to pad 18")
+			)
+			(property
+				(name "Sheetname")
+				(value "CC1101ExtBoardV2")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CC1101ExtBoardV2.kicad_sch")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "FLIPPER-GPIO-18*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "2bc59529-204d-5671-b5e0-9d0f4c25a329")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "18")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "15")
+						)
+						(pin
+							(num "16")
+						)
+						(pin
+							(num "17")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J2")
+			(value "CC1101 Module")
+			(footprint "Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Vertical")
+			(fields
+				(field
+					(name "Footprint") "Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Vertical")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "CC1101ExtBoardV2")
+				(part "CC1101_Module")
+				(description "Socket for the common 8-pin CC1101 sub-GHz radio module (2x04, 2.54 mm: GND VCC GDO0 CSN SCK MOSI MISO GDO2)")
+			)
+			(property
+				(name "Sheetname")
+				(value "CC1101ExtBoardV2")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CC1101ExtBoardV2.kicad_sch")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "PinSocket*2x04*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "77b74044-3ee9-599b-b07a-f1ff8889d7cf")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "8")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J3")
+			(value "50 pads, 2.54 mm")
+			(footprint "CC1101ExtBoardV2:ProtoGrid_10x5_P2.54mm")
+			(fields
+				(field
+					(name "Footprint") "CC1101ExtBoardV2:ProtoGrid_10x5_P2.54mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "CC1101ExtBoardV2")
+				(part "ProtoGrid_10x5")
+				(description "Prototyping area: 10 x 5 through-hole pads on a true 2.54 mm grid, plus a +3V3_RF rail (pin 51) and a GND rail (pin 52)")
+			)
+			(property
+				(name "Sheetname")
+				(value "CC1101ExtBoardV2")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CC1101ExtBoardV2.kicad_sch")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "ProtoGrid*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "dc5564cb-3109-5617-a5e2-e1012ac46b3f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "51")
+						)
+						(pin
+							(num "52")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "21")
+						)
+						(pin
+							(num "31")
+						)
+						(pin
+							(num "41")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "22")
+						)
+						(pin
+							(num "32")
+						)
+						(pin
+							(num "42")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "23")
+						)
+						(pin
+							(num "33")
+						)
+						(pin
+							(num "43")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "24")
+						)
+						(pin
+							(num "34")
+						)
+						(pin
+							(num "44")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "15")
+						)
+						(pin
+							(num "25")
+						)
+						(pin
+							(num "35")
+						)
+						(pin
+							(num "45")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "16")
+						)
+						(pin
+							(num "26")
+						)
+						(pin
+							(num "36")
+						)
+						(pin
+							(num "46")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "17")
+						)
+						(pin
+							(num "27")
+						)
+						(pin
+							(num "37")
+						)
+						(pin
+							(num "47")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "18")
+						)
+						(pin
+							(num "28")
+						)
+						(pin
+							(num "38")
+						)
+						(pin
+							(num "48")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "19")
+						)
+						(pin
+							(num "29")
+						)
+						(pin
+							(num "39")
+						)
+						(pin
+							(num "49")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "20")
+						)
+						(pin
+							(num "30")
+						)
+						(pin
+							(num "40")
+						)
+						(pin
+							(num "50")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J4")
+			(value "Spare pins")
+			(footprint "Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical")
+			(fields
+				(field
+					(name "Footprint") "Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Connector_Generic")
+				(part "Conn_01x09")
+				(description "Generic connector, single row, 01x09, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(property
+				(name "Sheetname")
+				(value "CC1101ExtBoardV2")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CC1101ExtBoardV2.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "connector")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Connector*:*_1x??_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "e95a8922-15e8-554f-afe8-a602f0db624e")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "9")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R1")
+			(value "1kR")
+			(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "R_Small_US")
+				(description "Resistor, small US symbol")
+			)
+			(property
+				(name "Sheetname")
+				(value "CC1101ExtBoardV2")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CC1101ExtBoardV2.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "r resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "14f4e552-8dec-5980-99d5-24fca6d8c3d8")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+	)
+	(groups)
+	(variants)
+	(libparts
+		(libpart
+			(lib "CC1101ExtBoardV2")
+			(part "CC1101_Module")
+			(description "Socket for the common 8-pin CC1101 sub-GHz radio module (2x04, 2.54 mm: GND VCC GDO0 CSN SCK MOSI MISO GDO2)")
+			(footprints
+				(fp "PinSocket*2x04*")
+			)
+			(fields
+				(field
+					(name "Reference") "J")
+				(field
+					(name "Value") "CC1101 Module")
+				(field
+					(name "Footprint") "Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Vertical")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Socket for the common 8-pin CC1101 sub-GHz radio module (2x04, 2.54 mm: GND VCC GDO0 CSN SCK MOSI MISO GDO2)")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "GND")
+					(type "power_in")
+				)
+				(pin
+					(num "2")
+					(name "VCC")
+					(type "power_in")
+				)
+				(pin
+					(num "3")
+					(name "GDO0")
+					(type "output")
+				)
+				(pin
+					(num "4")
+					(name "CSN")
+					(type "input")
+				)
+				(pin
+					(num "5")
+					(name "SCK")
+					(type "input")
+				)
+				(pin
+					(num "6")
+					(name "MOSI")
+					(type "input")
+				)
+				(pin
+					(num "7")
+					(name "MISO")
+					(type "output")
+				)
+				(pin
+					(num "8")
+					(name "GDO2")
+					(type "output")
+				)
+			)
+		)
+		(libpart
+			(lib "CC1101ExtBoardV2")
+			(part "FlipperZero_GPIO_18")
+			(description "Flipper Zero 18-pin GPIO header: single row split 8 + 10, 2.54 mm pitch, 17.78 mm gap, 58.42 mm pad 1 to pad 18")
+			(footprints
+				(fp "FLIPPER-GPIO-18*")
+			)
+			(fields
+				(field
+					(name "Reference") "J")
+				(field
+					(name "Value") "Flipper Zero GPIO")
+				(field
+					(name "Footprint") "CC1101ExtBoardV2:FLIPPER-GPIO-18-RA")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Flipper Zero 18-pin GPIO header: single row split 8 + 10, 2.54 mm pitch, 17.78 mm gap, 58.42 mm pad 1 to pad 18")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "+5V")
+					(type "power_out")
+				)
+				(pin
+					(num "2")
+					(name "PA7")
+					(type "bidirectional")
+				)
+				(pin
+					(num "3")
+					(name "PA6")
+					(type "bidirectional")
+				)
+				(pin
+					(num "4")
+					(name "PA4")
+					(type "bidirectional")
+				)
+				(pin
+					(num "5")
+					(name "PB3")
+					(type "bidirectional")
+				)
+				(pin
+					(num "6")
+					(name "PB2")
+					(type "bidirectional")
+				)
+				(pin
+					(num "7")
+					(name "PC3")
+					(type "bidirectional")
+				)
+				(pin
+					(num "8")
+					(name "GND")
+					(type "passive")
+				)
+				(pin
+					(num "9")
+					(name "+3V3")
+					(type "power_out")
+				)
+				(pin
+					(num "10")
+					(name "SWC")
+					(type "bidirectional")
+				)
+				(pin
+					(num "11")
+					(name "GND")
+					(type "passive")
+				)
+				(pin
+					(num "12")
+					(name "SIO")
+					(type "bidirectional")
+				)
+				(pin
+					(num "13")
+					(name "TX")
+					(type "bidirectional")
+				)
+				(pin
+					(num "14")
+					(name "RX")
+					(type "bidirectional")
+				)
+				(pin
+					(num "15")
+					(name "PC1")
+					(type "bidirectional")
+				)
+				(pin
+					(num "16")
+					(name "PC0")
+					(type "bidirectional")
+				)
+				(pin
+					(num "17")
+					(name "1W")
+					(type "bidirectional")
+				)
+				(pin
+					(num "18")
+					(name "GND")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "CC1101ExtBoardV2")
+			(part "ProtoGrid_10x5")
+			(description "Prototyping area: 10 x 5 through-hole pads on a true 2.54 mm grid, plus a +3V3_RF rail (pin 51) and a GND rail (pin 52)")
+			(footprints
+				(fp "ProtoGrid*")
+			)
+			(fields
+				(field
+					(name "Reference") "J")
+				(field
+					(name "Value") "Proto area")
+				(field
+					(name "Footprint") "CC1101ExtBoardV2:ProtoGrid_10x5_P2.54mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Prototyping area: 10 x 5 through-hole pads on a true 2.54 mm grid, plus a +3V3_RF rail (pin 51) and a GND rail (pin 52)")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "3")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "4")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "5")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "6")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "7")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "8")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "9")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "10")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "11")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "12")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "13")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "14")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "15")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "16")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "17")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "18")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "19")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "20")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "21")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "22")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "23")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "24")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "25")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "26")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "27")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "28")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "29")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "30")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "31")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "32")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "33")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "34")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "35")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "36")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "37")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "38")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "39")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "40")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "41")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "42")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "43")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "44")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "45")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "46")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "47")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "48")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "49")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "50")
+					(name "")
+					(type "free")
+				)
+				(pin
+					(num "51")
+					(name "+3V3_RF")
+					(type "passive")
+				)
+				(pin
+					(num "52")
+					(name "GND")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Connector_Generic")
+			(part "Conn_01x09")
+			(description "Generic connector, single row, 01x09, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			(footprints
+				(fp "Connector*:*_1x??_*")
+			)
+			(fields
+				(field
+					(name "Reference") "J")
+				(field
+					(name "Value") "Conn_01x09")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Generic connector, single row, 01x09, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "Pin_1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "Pin_2")
+					(type "passive")
+				)
+				(pin
+					(num "3")
+					(name "Pin_3")
+					(type "passive")
+				)
+				(pin
+					(num "4")
+					(name "Pin_4")
+					(type "passive")
+				)
+				(pin
+					(num "5")
+					(name "Pin_5")
+					(type "passive")
+				)
+				(pin
+					(num "6")
+					(name "Pin_6")
+					(type "passive")
+				)
+				(pin
+					(num "7")
+					(name "Pin_7")
+					(type "passive")
+				)
+				(pin
+					(num "8")
+					(name "Pin_8")
+					(type "passive")
+				)
+				(pin
+					(num "9")
+					(name "Pin_9")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Device")
+			(part "C")
+			(description "Unpolarized capacitor")
+			(footprints
+				(fp "C_*")
+			)
+			(fields
+				(field
+					(name "Reference") "C")
+				(field
+					(name "Value") "C")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Device")
+			(part "D_Schottky")
+			(description "Schottky diode")
+			(footprints
+				(fp "TO-???*")
+				(fp "*_Diode_*")
+				(fp "*SingleDiode*")
+				(fp "D_*")
+			)
+			(fields
+				(field
+					(name "Reference") "D")
+				(field
+					(name "Value") "D_Schottky")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Schottky diode")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "K")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "A")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Device")
+			(part "FerriteBead_Small")
+			(description "Ferrite bead, small symbol")
+			(footprints
+				(fp "Inductor_*")
+				(fp "L_*")
+				(fp "*Ferrite*")
+			)
+			(fields
+				(field
+					(name "Reference") "FB")
+				(field
+					(name "Value") "FerriteBead_Small")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Ferrite bead, small symbol")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Device")
+			(part "LED")
+			(description "Light emitting diode")
+			(footprints
+				(fp "LED*")
+				(fp "LED_SMD:*")
+				(fp "LED_THT:*")
+			)
+			(fields
+				(field
+					(name "Reference") "D")
+				(field
+					(name "Value") "LED")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Light emitting diode")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "K")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "A")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Device")
+			(part "R_Small_US")
+			(description "Resistor, small US symbol")
+			(footprints
+				(fp "R_*")
+			)
+			(fields
+				(field
+					(name "Reference") "R")
+				(field
+					(name "Value") "R_Small_US")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor, small US symbol")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Power_Protection")
+			(part "SRV05-4")
+			(description "ESD Protection Diodes with Low Clamping Voltage, SOT-23-6")
+			(docs "http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF")
+			(footprints
+				(fp "SOT?23*")
+			)
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value") "SRV05-4")
+				(field
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-23-6")
+				(field
+					(name "Datasheet") "http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF")
+				(field
+					(name "Description") "ESD Protection Diodes with Low Clamping Voltage, SOT-23-6")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "IO1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "VN")
+					(type "passive")
+				)
+				(pin
+					(num "3")
+					(name "IO2")
+					(type "passive")
+				)
+				(pin
+					(num "4")
+					(name "IO3")
+					(type "passive")
+				)
+				(pin
+					(num "5")
+					(name "VP")
+					(type "passive")
+				)
+				(pin
+					(num "6")
+					(name "IO4")
+					(type "passive")
+				)
+			)
+		)
+	)
+	(libraries
+		(library
+			(logical "CC1101ExtBoardV2")
+			(uri "${KIPRJMOD}/library/CC1101ExtBoardV2.kicad_sym")
+		)
+		(library
+			(logical "Connector_Generic")
+			(uri "${KICAD10_SYMBOL_DIR}/Connector_Generic.kicad_symdir")
+		)
+		(library
+			(logical "Device")
+			(uri "${KICAD10_SYMBOL_DIR}/Device.kicad_symdir")
+		)
+		(library
+			(logical "Power_Protection")
+			(uri "${KICAD10_SYMBOL_DIR}/Power_Protection.kicad_symdir")
+		)
+	)
+	(nets
+		(net
+			(code "1")
+			(name "+3V3")
+			(class "Power")
+			(node
+				(ref "D1")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "J1")
+				(pin "9")
+				(pinfunction "+3V3_9")
+				(pintype "power_out")
+			)
+		)
+		(net
+			(code "2")
+			(name "+3V3_RF")
+			(class "Power")
+			(node
+				(ref "C3")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C4")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "FB1")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "J2")
+				(pin "2")
+				(pinfunction "VCC_2")
+				(pintype "power_in")
+			)
+			(node
+				(ref "J3")
+				(pin "51")
+				(pinfunction "+3V3_RF_51")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "3")
+			(name "+3V3_SYS")
+			(class "Power")
+			(node
+				(ref "C1")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C2")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D1")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D2")
+				(pin "5")
+				(pinfunction "VP_5")
+				(pintype "passive")
+			)
+			(node
+				(ref "D3")
+				(pin "5")
+				(pinfunction "VP_5")
+				(pintype "passive")
+			)
+			(node
+				(ref "D4")
+				(pin "5")
+				(pinfunction "VP_5")
+				(pintype "passive")
+			)
+			(node
+				(ref "FB1")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R1")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "4")
+			(name "+5V")
+			(class "Power")
+			(node
+				(ref "J1")
+				(pin "1")
+				(pinfunction "+5V_1")
+				(pintype "power_out")
+			)
+			(node
+				(ref "J4")
+				(pin "1")
+				(pinfunction "Pin_1_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "5")
+			(name "/1W")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "17")
+				(pinfunction "1W_17")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "J4")
+				(pin "8")
+				(pinfunction "Pin_8_8")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "6")
+			(name "/CSN")
+			(class "Default")
+			(node
+				(ref "D3")
+				(pin "1")
+				(pinfunction "IO1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "J1")
+				(pin "4")
+				(pinfunction "PA4_4")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "J2")
+				(pin "4")
+				(pinfunction "CSN_4")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "7")
+			(name "/GDO0")
+			(class "Default")
+			(node
+				(ref "D4")
+				(pin "1")
+				(pinfunction "IO1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "J1")
+				(pin "6")
+				(pinfunction "PB2_6")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "J2")
+				(pin "3")
+				(pinfunction "GDO0_3")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "8")
+			(name "/GDO2")
+			(class "Default")
+			(node
+				(ref "D4")
+				(pin "3")
+				(pinfunction "IO2_3")
+				(pintype "passive")
+			)
+			(node
+				(ref "J1")
+				(pin "7")
+				(pinfunction "PC3_7")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "J2")
+				(pin "8")
+				(pinfunction "GDO2_8")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "9")
+			(name "/MISO")
+			(class "Default")
+			(node
+				(ref "D2")
+				(pin "3")
+				(pinfunction "IO2_3")
+				(pintype "passive")
+			)
+			(node
+				(ref "J1")
+				(pin "3")
+				(pinfunction "PA6_3")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "J2")
+				(pin "7")
+				(pinfunction "MISO_7")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "10")
+			(name "/MOSI")
+			(class "Default")
+			(node
+				(ref "D2")
+				(pin "1")
+				(pinfunction "IO1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "J1")
+				(pin "2")
+				(pinfunction "PA7_2")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "J2")
+				(pin "6")
+				(pinfunction "MOSI_6")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "11")
+			(name "/PC0")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "16")
+				(pinfunction "PC0_16")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "J4")
+				(pin "7")
+				(pinfunction "Pin_7_7")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "12")
+			(name "/PC1")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "15")
+				(pinfunction "PC1_15")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "J4")
+				(pin "6")
+				(pinfunction "Pin_6_6")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "13")
+			(name "/RX")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "14")
+				(pinfunction "RX_14")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "J4")
+				(pin "5")
+				(pinfunction "Pin_5_5")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "14")
+			(name "/SCK")
+			(class "Default")
+			(node
+				(ref "D3")
+				(pin "3")
+				(pinfunction "IO2_3")
+				(pintype "passive")
+			)
+			(node
+				(ref "J1")
+				(pin "5")
+				(pinfunction "PB3_5")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "J2")
+				(pin "5")
+				(pinfunction "SCK_5")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "15")
+			(name "/SIO")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "12")
+				(pinfunction "SIO_12")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "J4")
+				(pin "3")
+				(pinfunction "Pin_3_3")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "16")
+			(name "/SWC")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "10")
+				(pinfunction "SWC_10")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "J4")
+				(pin "2")
+				(pinfunction "Pin_2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "17")
+			(name "/TX")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "13")
+				(pinfunction "TX_13")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "J4")
+				(pin "4")
+				(pinfunction "Pin_4_4")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "18")
+			(name "GND")
+			(class "Power")
+			(node
+				(ref "C1")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C2")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C3")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C4")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "D2")
+				(pin "2")
+				(pinfunction "VN_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "D3")
+				(pin "2")
+				(pinfunction "VN_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "D4")
+				(pin "2")
+				(pinfunction "VN_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "D5")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "J1")
+				(pin "11")
+				(pinfunction "GND_11")
+				(pintype "passive")
+			)
+			(node
+				(ref "J1")
+				(pin "18")
+				(pinfunction "GND_18")
+				(pintype "passive")
+			)
+			(node
+				(ref "J1")
+				(pin "8")
+				(pinfunction "GND_8")
+				(pintype "passive")
+			)
+			(node
+				(ref "J2")
+				(pin "1")
+				(pinfunction "GND_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "J3")
+				(pin "52")
+				(pinfunction "GND_52")
+				(pintype "passive")
+			)
+			(node
+				(ref "J4")
+				(pin "9")
+				(pinfunction "Pin_9_9")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "19")
+			(name "Net-(D5-A)")
+			(class "Default")
+			(node
+				(ref "D5")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R1")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "20")
+			(name "unconnected-(D2-IO3-Pad4)")
+			(class "Default")
+			(node
+				(ref "D2")
+				(pin "4")
+				(pinfunction "IO3_4")
+				(pintype "passive+no_connect")
+			)
+		)
+		(net
+			(code "21")
+			(name "unconnected-(D2-IO4-Pad6)")
+			(class "Default")
+			(node
+				(ref "D2")
+				(pin "6")
+				(pinfunction "IO4_6")
+				(pintype "passive+no_connect")
+			)
+		)
+		(net
+			(code "22")
+			(name "unconnected-(D3-IO3-Pad4)")
+			(class "Default")
+			(node
+				(ref "D3")
+				(pin "4")
+				(pinfunction "IO3_4")
+				(pintype "passive+no_connect")
+			)
+		)
+		(net
+			(code "23")
+			(name "unconnected-(D3-IO4-Pad6)")
+			(class "Default")
+			(node
+				(ref "D3")
+				(pin "6")
+				(pinfunction "IO4_6")
+				(pintype "passive+no_connect")
+			)
+		)
+		(net
+			(code "24")
+			(name "unconnected-(D4-IO3-Pad4)")
+			(class "Default")
+			(node
+				(ref "D4")
+				(pin "4")
+				(pinfunction "IO3_4")
+				(pintype "passive+no_connect")
+			)
+		)
+		(net
+			(code "25")
+			(name "unconnected-(D4-IO4-Pad6)")
+			(class "Default")
+			(node
+				(ref "D4")
+				(pin "6")
+				(pinfunction "IO4_6")
+				(pintype "passive+no_connect")
+			)
+		)
+		(net
+			(code "26")
+			(name "unconnected-(J3-Pad1)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "1")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "27")
+			(name "unconnected-(J3-Pad2)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "2")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "28")
+			(name "unconnected-(J3-Pad3)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "3")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "29")
+			(name "unconnected-(J3-Pad4)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "4")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "30")
+			(name "unconnected-(J3-Pad5)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "5")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "31")
+			(name "unconnected-(J3-Pad6)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "6")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "32")
+			(name "unconnected-(J3-Pad7)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "7")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "33")
+			(name "unconnected-(J3-Pad8)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "8")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "34")
+			(name "unconnected-(J3-Pad9)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "9")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "35")
+			(name "unconnected-(J3-Pad10)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "10")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "36")
+			(name "unconnected-(J3-Pad11)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "11")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "37")
+			(name "unconnected-(J3-Pad12)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "12")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "38")
+			(name "unconnected-(J3-Pad13)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "13")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "39")
+			(name "unconnected-(J3-Pad14)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "14")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "40")
+			(name "unconnected-(J3-Pad15)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "15")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "41")
+			(name "unconnected-(J3-Pad16)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "16")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "42")
+			(name "unconnected-(J3-Pad17)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "17")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "43")
+			(name "unconnected-(J3-Pad18)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "18")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "44")
+			(name "unconnected-(J3-Pad19)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "19")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "45")
+			(name "unconnected-(J3-Pad20)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "20")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "46")
+			(name "unconnected-(J3-Pad21)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "21")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "47")
+			(name "unconnected-(J3-Pad22)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "22")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "48")
+			(name "unconnected-(J3-Pad23)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "23")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "49")
+			(name "unconnected-(J3-Pad24)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "24")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "50")
+			(name "unconnected-(J3-Pad25)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "25")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "51")
+			(name "unconnected-(J3-Pad26)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "26")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "52")
+			(name "unconnected-(J3-Pad27)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "27")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "53")
+			(name "unconnected-(J3-Pad28)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "28")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "54")
+			(name "unconnected-(J3-Pad29)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "29")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "55")
+			(name "unconnected-(J3-Pad30)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "30")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "56")
+			(name "unconnected-(J3-Pad31)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "31")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "57")
+			(name "unconnected-(J3-Pad32)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "32")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "58")
+			(name "unconnected-(J3-Pad33)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "33")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "59")
+			(name "unconnected-(J3-Pad34)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "34")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "60")
+			(name "unconnected-(J3-Pad35)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "35")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "61")
+			(name "unconnected-(J3-Pad36)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "36")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "62")
+			(name "unconnected-(J3-Pad37)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "37")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "63")
+			(name "unconnected-(J3-Pad38)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "38")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "64")
+			(name "unconnected-(J3-Pad39)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "39")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "65")
+			(name "unconnected-(J3-Pad40)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "40")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "66")
+			(name "unconnected-(J3-Pad41)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "41")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "67")
+			(name "unconnected-(J3-Pad42)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "42")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "68")
+			(name "unconnected-(J3-Pad43)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "43")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "69")
+			(name "unconnected-(J3-Pad44)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "44")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "70")
+			(name "unconnected-(J3-Pad45)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "45")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "71")
+			(name "unconnected-(J3-Pad46)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "46")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "72")
+			(name "unconnected-(J3-Pad47)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "47")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "73")
+			(name "unconnected-(J3-Pad48)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "48")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "74")
+			(name "unconnected-(J3-Pad49)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "49")
+				(pintype "free")
+			)
+		)
+		(net
+			(code "75")
+			(name "unconnected-(J3-Pad50)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "50")
+				(pintype "free")
+			)
+		)
+	)
+)

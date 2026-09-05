@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "CC1101ExtBoardV2") (type "KiCad") (uri "${KIPRJMOD}/library/CC1101ExtBoardV2.pretty") (options "") (descr "Project footprints: Flipper Zero GPIO connector (BSD-2-Clause, kbembedded/flipper-gpio-eda) and the prototyping grid"))
+)
